@@ -366,7 +366,7 @@ footer p{
 }
 
 ::-webkit-scrollbar-track {
-    background: #f0f0f0; 
+    background: #005977; 
 }
 
 ::-webkit-scrollbar-thumb {
@@ -378,7 +378,7 @@ footer p{
 }
 
 ::-webkit-scrollbar-corner {
-    background: #f0f0f0; 
+    background: #005977; 
 }
 
 @media screen and (max-width: 1400px) {
